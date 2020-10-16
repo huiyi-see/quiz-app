@@ -1,3 +1,5 @@
+# Quiz-app 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 This project was done via learning from the tutorial: https://www.freecodecamp.org/news/how-to-build-a-quiz-app-using-react/. It applies the concepts of complex state objects,to handle different state hooks and render things based on state.  
